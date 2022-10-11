@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "g-sama",
+  "repo": "container-fpbvvye",
+  "name": "g-sama",
+}
