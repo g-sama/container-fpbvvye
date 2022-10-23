@@ -1,3 +1,16 @@
+# v0.0.3 (Sun Oct 23 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of https://github.com/g-sama/container-fpbvvye ([@Jyoti-Sama](https://github.com/Jyoti-Sama))
+- deta setup ([@Jyoti-Sama](https://github.com/Jyoti-Sama))
+
+#### Authors: 1
+
+- JYOTIRMOY SAMADDER ([@Jyoti-Sama](https://github.com/Jyoti-Sama))
+
+---
+
 # v0.0.2 (Sun Oct 23 2022)
 
 :tada: This release contains work from a new contributor! :tada:
